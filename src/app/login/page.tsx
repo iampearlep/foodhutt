@@ -155,7 +155,7 @@ const CraveLogin = () => {
           {/* Sign Up Link */}
           <div className="mt-6 text-center">
             <p className="text-sm text-gray-600">
-              Don't have an account?{' '}
+              Dont have an account?{' '}
               <a href="#" className="text-red-600 hover:text-red-500 font-medium">
                 Sign up here
               </a>
